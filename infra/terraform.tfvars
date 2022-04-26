@@ -1,1 +1,1 @@
-public_key = ""
+public_key = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIE2KvtJvBRYfNbcswGbmbRmcQ2CUcShVd7mvDVHyZWn4 ziadmorad@devops"
