@@ -1,5 +1,6 @@
-make: Entering directory 'c:/Users/ziadm/Desktop/SysOpsWeeklyLabs/cosc2759-lab-7/cosc-2759-lab-7-base'
-make: Leaving directory 'c:/Users/ziadm/Desktop/SysOpsWeeklyLabs/cosc2759-lab-7/cosc-2759-lab-7-base'
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/ziadm/Desktop/SysOpsWeeklyLabs/cosc-2759-lab-7-base'
+make: Leaving directory 'c:/Users/ziadm/Desktop/SysOpsWeeklyLabs/cosc-2759-lab-7-base'
  
 make: *** No targets specified and no makefile found.  Stop.
 

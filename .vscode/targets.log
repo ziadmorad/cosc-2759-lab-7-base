@@ -8,7 +8,7 @@ make: *** No rule to make target 'all'.  Stop.
 # This is free software: you are free to change and redistribute it.
 # There is NO WARRANTY, to the extent permitted by law.
 
-# Make data base, printed on Tue Apr 26 18:31:39 2022
+# Make data base, printed on Tue Apr 26 18:34:22 2022
 
 # Variables
 
@@ -29,7 +29,7 @@ VBOX_MSI_INSTALL_PATH = C:\Program Files\Oracle\VirtualBox\
 # environment
 LOCALAPPDATA = C:\Users\ziadm\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-348f3e71-9429-4863-8200-443f25c6e54d-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-82747485-bb40-43ca-ad93-ba83c1104ac8-sock
 # environment
 VSCODE_CWD = C:\Users\ziadm\AppData\Local\Programs\Microsoft VS Code
 # environment
@@ -45,7 +45,7 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_37516_XJVDBJPAVEWADVMS
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_14864_SMVJYIHAZIXBJAOX
 # environment
 FPS_BROWSER_USER_PROFILE_STRING = Default
 # environment
@@ -77,11 +77,11 @@ MAKEFLAGS = pqrR
 # environment
 ONEDRIVE = C:\Users\ziadm\OneDrive
 # makefile
-CURDIR := c:/Users/ziadm/Desktop/SysOpsWeeklyLabs/cosc2759-lab-7/cosc-2759-lab-7-base
+CURDIR := c:/Users/ziadm/Desktop/SysOpsWeeklyLabs/cosc-2759-lab-7-base
 # environment
 VSCODE_PIPE_LOGGING = true
 # environment
-APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = 1
+APPLICATION_INSIGHTS_NO_DIAGNOSTIC_CHANNEL = true
 # automatic
 *D = $(patsubst %/,%,$(patsubst %\,%,$(dir $*)))
 # environment
@@ -101,7 +101,7 @@ MAKEFILE_LIST :=
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 37516
+VSCODE_PID = 14864
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # automatic
@@ -223,7 +223,7 @@ PROCESSOR_IDENTIFIER = AMD64 Family 25 Model 33 Stepping 0, AuthenticAMD
 
 # Directories
 
-# . (key c:/Users/ziadm/Desktop/SysOpsWeeklyLabs/cosc2759-lab-7/cosc-2759-lab-7-base, mtime 1650961899): 9 files, no impossibilities.
+# . (key c:/Users/ziadm/Desktop/SysOpsWeeklyLabs/cosc-2759-lab-7-base, mtime 1650961899): 9 files, no impossibilities.
 
 # 9 files, no impossibilities in 1 directories.
 
@@ -288,6 +288,6 @@ GNUmakefile:
 # strcache performance: lookups = 19 / hit rate = 15%
 # hash-table stats:
 # Load=16/8192=0%, Rehash=0, Collisions=0/19=0%
-# Finished Make data base on Tue Apr 26 18:31:39 2022
+# Finished Make data base on Tue Apr 26 18:34:22 2022
 
  
